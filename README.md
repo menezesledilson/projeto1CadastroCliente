@@ -1,5 +1,3 @@
-# projeto1Ebac
-
 # Aplicação de Cadastro de Clientes
 
 Esta aplicação em Java oferece funcionalidades básicas para o cadastro, consulta, exclusão e alteração de informações de clientes.
